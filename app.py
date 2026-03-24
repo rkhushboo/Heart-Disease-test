@@ -13,7 +13,7 @@ st.image(
     "https://images.ctfassets.net/ut7rzv8yehpf/1DhC3uX3EeKnjU02LWyTXH/9c82e6ae82662ed5903eafb40d888d90/8_Main_Types_of_Heart_Disease.jpg?w=1800&h=900&fl=progressive&q=50&fm=jpg",
     caption="Human Heart Anatomy",
     width=250,  # smaller image size
-    use_container_width=False
+    
 )
 
 # Input fields
